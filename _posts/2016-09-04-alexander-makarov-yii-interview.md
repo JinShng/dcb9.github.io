@@ -42,45 +42,46 @@ Cloudways: 你在 Yii 框架中的主要贡献是什么，还有哪个版本你�
 
 Alexander: 当我来 Yii 之前就用过 J2EE、CodeIgniter 和一些其它框架，在 1.1 时我主要贡献了一些非常好的功能，这些功能都是来自我以前的经验。Yii 2.0 是另一个故事，我从最开始就参与了这个项目，和薛强及团队成员一起设计了整个框架。
 
-Cloudways: According to a 2015 survey by sitepoint, Laravel tops the list of the most used framework, and Yii2 stands on the 4th position. Do you think Yii2 can get the top position in future?
+Cloudways: 根据 2015 年 Sitepoint 的调查，Laravel 排在第一而 Yii 排在第四位，你认为 Yii2 未来会夺得第一吗？
 
-There’s a chance, but I don’t think Yii will be at the top of the list in the US next year. It’s hard to compete in marketing with local US commercial players. Yii is slightly more popular outside US. Especially in Russia, Ukraine and ex-USSR countries which are easily reachable for conferences.
+Alexander: 这是个机会，但是我不认为 Yii 明年会在美国列表排第一，和美国本士的商业竞争是非常困难的，Yii 在美国之外更流行一些，特别是在俄罗斯、乌克兰和前苏联国家。
 
-Cloudways: How would you compare Yii with Laravel and Symfony?
+Cloudways: 你是如何对比 Yii、Laravel 和 Symfony 的？
 
-Alexander: All three are good frameworks with their own pros and cons.
+Alexander: 这三个框架都有他们自己的优点和缺点。
 
-Laravel has excellent marketing, good public API, lots of cool infrastructure, good events in US. Until recently, it wasn’t really suitable for lengthy projects because new major versions were released one after another and old ones were just dropped. Now it’s much better. The framework management and development is a bit fragile since it depends a lot on its founder but, hopefully, it will change with time.
+Laravel 有非常棒的市场、开放接口、许多很酷的基础设施，在美国有很好的活动。直到最近，它还未真正地适应大的项目，一个接一个的版本，老版本还没过多久又被废弃了，现在好多了，该框架的管理和发展比较脆弱，因为它在很大程度上取决于它的创始人，希望它会随时间而改变。
 
-Symfony has a very long history. It’s mature and is backed by a strong company which could afford full time documentation team, and developers team. The framework community is strong as well. The framework leans slightly towards enterprise solutions and is suitable for really complicated applications. Because of that, some parts of the framework are really complex.
+Symfony 有很长的历史，它非常地成熟，是由一个强大的公司，能买得起全职文档小组，和开发团队提供支持，社区也非常的强壮，它倾向于企业解决方案，适用于非常复杂的应用程序，由于这个原因，该框架的某些部分是非常复杂的。
 
-Yii is all about practice. It’s very fast to develop prototypes with, because of Gii code generator and well-made enhanced implementation of ActiveRecord design pattern. Yii provides lots of features out of the box. The community is strong, docs are good, code is stable and we care about backwards compatibility. We cut lots of edges for a reason. As a result, Yii performs better than Laravel or Symfony using the same hardware with the similar application implemented. As for downsides, Yii doesn’t stand in your way much when you’re trying to go against best practices, clean code and domain driven design. Still, if you know what you’re doing, all the tools are there for you.
+Yii 所有东西都源自实践 ，因为 Gii 代码生成器和制作精良的、增强的 ActiveRecord 设计模式的实现，它可以非常快速地开发原型。Yii 提供了许多开箱即用的功能，社区也非常的强壮，文档也不错，代码是稳定的，我们关心向后的兼容性，我们削减了许多边缘，只为在相同的硬件及类似应用中，Yii 的性能比 Laravel 或 Symfony 更高。至于缺点，Yii 不会完全按你的方式去做，当你试图去反对最佳实践，干净的代码和领域驱动设计。不过，如果你知道你在做什么，所有的工具都为你服务。
 
-Cloudways: What are the best features of Yii according to you?
+Cloudways: 你认为 Yii 最好的功能有哪些？
 
-Alexander: Error handling and debug toolbar, code generation, forms, query builder and active record, data providers and data widgets, strong i18n layer, REST API framework.
+Alexander: Error handling and debug toolbar, code generation, forms, query builder and active record, data providers and data widgets, strong i18n layer, REST API framework.——这段相信没有看不懂的。
 
-Cloudways: Alexander, what are your activities when you are not working at all? How do you spend your time?
+Cloudways: Alexander，当你不工作时你会做些什么，怎么打发你的时间？
 
-Alexander: Traveling, bicycling, watching movies, playing games, doing various family activities.
+Alexander: 旅游、骑车、看电影、玩游戏和做许多家庭活动
 
-Cloudways: Just for our readers, can you send a picture of your workstation?
+Cloudways: 可以给我们的读者，发一张你的工作台吗？
 
-Alexander: Here you go!
+Alexander: 那就下面这张吧！
 
 ![Alexander Makarov workstation](https://www.cloudways.com/blog/wp-content/uploads/image00-8-1024x819.jpg)
 
-Cloudways: What advice would you like to give to students who are going to start their career as a developer?
+Cloudways: 你会给即将成为一名开发者的学生哪些建议呢？
 
-Alexander: Spend time to learn computer science fundamentals. You won’t need it in the first five years, but later there will be no way to get further without a good base and it will make a big difference.
+Alexander: 把你的时间花在学习计算机基础上，前五年你可能不会需要它，但之后如果你没有一个良好的基础就无法进步了，它会给你带来很大的区别。
 
-Cloudways: We at Cloudways are providing one click installation for PHP stack and different PHP frameworks. I would like you to check it yourself and share your opinion about the platform. What can we do to further improve the outlook and performance of the platform?
+Cloudways: 我们 Cloudways 提供一键安装 PHP 和不同的 PHP 框架，希望你去看一看，然后分享一下你对本平台的看法，我们可以做什么，以进一步提高本平台的前景和表现？
 
-Alexander: Overall, the service is fine. It may save time on setting up everything from scratch. Pricing is reasonable especially for lower tiers. There are downsides, of course:
+Alexander: 总体来说服务是好的，它会节省许多初始化配置的时间，定价合理尤其是对较低层次。当然也有缺点：
 
-The default stack is made to meet the needs of many different developers so while it’s OK, custom stack may perform much better.
-Some DigitalOcean features aren’t available yet.
-As for Yii, all the requirements for Yii 2.0 are OK so it should work fine.
+* 默认的堆栈，以满足许多不同的开发人员的需求，自定义堆栈再增强一下会更好
+* 一些 DigitalOcean 的功能还不可用
+
+至于 Yii，所有的依赖都支持，所以可以很好的运行。
 
 感谢 [@亦清](https://github.com/yiqing95) 帮忙翻译了许多内容
 
