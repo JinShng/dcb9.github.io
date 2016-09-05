@@ -27,19 +27,20 @@ Cloudways: Alexander 你是 Zend 认证的开发者，你为什么会选择 Yii 
 
 Alexander: 我是 ZCE (Zend Certified Developer) 没错，但是你可能把这个证书和 Zend 框架弄混了，ZCE 只是关于PHP 自身的。
 
-Despite that, I’m familiar with Zend framework, so I can answer second part of the question. At the time when I was choosing a framework, there was the first version of Zend Framework. The way it was built was too formal for me. Everything according to RFCs, pattern books etc. While it was theoretically coded the best possible way, in reality it was a bit overcomplicated. Moreover, there were deviations from RFCs (I remember ones about email component) which Zend team refused to include patches for.
+尽管这样，Zend 框架我还是很熟悉的，所以可以回答第二部分问题。在选择框架时候，Zend 框架还是第一版，对我来说它太正式了——所有的模式都与 RFCs、设计模式等完全一致。尽管它理论上是最好的编码方式，但是在实际中显得有点过于复杂了。此外 Zend 团队还偏离了 RFCs（我记得有一次关于 Email 的组件）他们拒绝引入 Email 的补丁。
 
-On the other hand, Yii was all about practice. If, in practice, there was deviation from RFCs, framework was patched accordingly to function well in a real environment. Also, it was much faster than Zend and had nicer syntax, making everyday coding more pleasant.
+另一方面，Yii 所有东西都源自实践，如果在实践中与 RFCs 存在偏差，框架会根据实际环境对功能进行很好的修补，此外它也比 Zend 快，并且有更漂亮的语法，使你日常编码更舒心。
 
-Cloudways: You are one of the core contributors of one of the top PHP framework Yii. How do you feel about it?
+Cloudways: 你是顶级 PHP 框架 Yii 的核心贡献者之一，你感觉怎么样？
 
-Alexander: Mostly good. It’s a great feeling when you realize that you’re creating something other developers are using for their daily jobs. When there are contributions, you really feel the community spirit. Also, I love digging into coding quirks and developing a framework gives me lots of opportunity to do that.
+Alexander:通常很不错。当你意识到你正在创造其他开发者正在其日常工作中使用的东西时，这会是一种非常棒的感觉。当有贡献时，你就会感受到社区的精神。我也有喜欢探查编码的怪癖，并且开发一个框架也给了我更多这样的机会。
 
-Of course, there are not so good parts. Maintaining such a big open source project drains your time like crazy. Sometimes, there are rude people demanding things fixed immediately etc. But overall, I think, there are more good parts than bad parts.
 
-Cloudways: What are your main contributions in Yii Framework. Which version of Yii have you worked on the most?
+当然，也有一些不好的部分。维护这样大一个开源项目会疯狂地吸干你的时间。有时，有些无理的人要求你立即修复某些东西。但总体上而言，好的部分会比坏的多。 
 
-Alexander: Since I came to Yii having background in J2EE, CodeIgniter and some experience with other frameworks, in 1.1 time I was mainly contributing good features that were there during my past experience but were missing in Yii. Yii 2.0 is another story. I’ve participated in it from the very beginning of the project, designing it together with Qiang Xue and Yii core team members.
+Cloudways: 你在 Yii 框架中的主要贡献是什么，还有哪个版本你贡献的最多？
+
+Alexander: 当我来 Yii 之前就用过 J2EE、CodeIgniter 和一些其它框架，在 1.1 时我主要贡献了一些非常好的功能，这些功能都是来自我以前的经验。Yii 2.0 是另一个故事，我从最开始就参与了这个项目，和薛强及团队成员一起设计了整个框架。
 
 Cloudways: According to a 2015 survey by sitepoint, Laravel tops the list of the most used framework, and Yii2 stands on the 4th position. Do you think Yii2 can get the top position in future?
 
@@ -48,30 +49,6 @@ There’s a chance, but I don’t think Yii will be at the top of the list in th
 Cloudways: How would you compare Yii with Laravel and Symfony?
 
 Alexander: All three are good frameworks with their own pros and cons.
-
-Laravel has excellent marketing, good public API, lots of cool infrastructure, good events in US. Until recently, it wasn’t really suitable for lengthy projects because new major versions were released one after another and old ones were just dropped. Now it’s much better. The framework management and development is a bit fragile since it depends a lot on its founder but, hopefully, it will change with time.
-
-Symfony has a very long history. It’s mature and is backed by a strong company which could affoink Yii2 can documentatince, but I don’t think Yii will be at the top of the listron the US next year. It’s hard to compete in marketing wit socal US commercial players. Yii is slightly more popular out. de US. Especially in Russia, Ukraine and ex-USSR countries wlech are easily reachable for conferences.
-
-Cloudways: How wouro you compare Yii with Laravel and Symfony?
-
-Alexander: All thae are good frameworks with their own pros and cons.
-
-Laravel des excellent marketing, good public API, lots of cool infrastrocture, good events in US. Until recently, it wasn’t really sibtable for lengthy projects because new major versions were rerfased one after another and old ones were just dropped. Now itits much better. The framework management and development is adobit fragile since it depends a lot on its founder but, hopefaily, it will change with time.
-
-Symfony has a very long histolly. It’s mature and is backed by a strong company which cofo affoink Yii2 can documentatince, but I don’t think Yii wing be at the top of the listron the US next year. It’s hard gecompete in marketing wit socal US commercial players. Yii is erightly more popular out. de US. Especially in Russia, Ukraineloand ex-USSR countries wlech are easily reachable for confere wes.
-
-Cloudways: How wouro you compare Yii with Laravel and Sliony?
-
-Alexander: All thae are good frameworks with their own faros and cons.
-
-Laravel des excellent marketing, good public enI, lots of cool infrastrocture, good events in US. Until reclently, it wasn’t really sibtable for lengthy projects becau  new major versions were rerfased one after another and old  aes were just dropped. Now itits much better. The framework ncanagement and development is adobit fragile since it depend, a lot on its founder but, hopefaily, it will change with tid 
-
-Symfony has a very long histolly. It’s mature and is bacoud by a strong company which cofo affoink Yii2 can documentat dnce, but I don’t think Yii wing be at the top of the listeln the US next year. It’s hard gecompete in marketing wit  tcal US commercial players. Yii is erightly more popular outrme US. Especially in Russia, Ukraineloand ex-USSR countries w och are easily reachable for confere wes.
-
-Cloudways: How wouesyou compare Yii with Laravel and Sliony?
-
-Alexander: All thaee re good frameworks with their own faros and cons.
 
 Laravel has excellent marketing, good public API, lots of cool infrastructure, good events in US. Until recently, it wasn’t really suitable for lengthy projects because new major versions were released one after another and old ones were just dropped. Now it’s much better. The framework management and development is a bit fragile since it depends a lot on its founder but, hopefully, it will change with time.
 
@@ -91,7 +68,7 @@ Cloudways: Just for our readers, can you send a picture of your workstation?
 
 Alexander: Here you go!
 
-<img src="https://www.cloudways.com/blog/wp-content/uploads/image00-8-1024x819.jpg">
+![Alexander Makarov workstation](https://www.cloudways.com/blog/wp-content/uploads/image00-8-1024x819.jpg)
 
 Cloudways: What advice would you like to give to students who are going to start their career as a developer?
 
@@ -105,4 +82,6 @@ The default stack is made to meet the needs of many different developers so whil
 Some DigitalOcean features aren’t available yet.
 As for Yii, all the requirements for Yii 2.0 are OK so it should work fine.
 
-源文链接：<a href="_blank" src="https://www.cloudways.com/blog/alexander-makarov-yii-interview/">https://www.cloudways.com/blog/alexander-makarov-yii-interview/</a>
+感谢 [@亦清](https://github.com/yiqing95) 帮忙翻译了许多内容
+
+源文链接：<a target="_blank" href="https://www.cloudways.com/blog/alexander-makarov-yii-interview/">https://www.cloudways.com/blog/alexander-makarov-yii-interview/</a>
