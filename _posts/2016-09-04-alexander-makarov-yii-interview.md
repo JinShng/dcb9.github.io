@@ -4,7 +4,7 @@ tags: 工作,翻译
 layout: post
 ---
 
-<a target="_blank" href="https://github.com/samdark">Alexander Makarov</a> 是一个高级工程师并且他是 <a target="_blank" href="http://www.yiiframework.com/">Yii 框架</a>的核心贡献者之一，同时他还是 <a target="_blank" href="https://github.com/samdark/yii2-cookbook">Yii 2.0 Cookbook</a> 的作者。
+<a target="_blank" href="https://github.com/samdark">Alexander Makarov</a> 是一个高级工程师并且他是 <a target="_blank" href="http://www.yiiframework.com/">Yii 框架</a>的核心贡献者之一，同时他还是 <a target="_blank" href="https://github.com/samdark/yii2-cookbook">Yii 2.0 Cookbook</a> 的作者
 
 
 Alexander 在 Cloudways 面试中，讲述了他职业路径、对 Yii 框架的贡献以及 Yii 和其它框架的对比，最后他还给学生一些非常好的建议。
